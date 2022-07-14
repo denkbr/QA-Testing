@@ -1,5 +1,5 @@
 Eng
-A list of my works created without NDA is presented for review.
+Course of additional education of Tomsk State University. Practical work on the course
 
 Рус
-Представлен список моих работ для ознакомления созданных без NDA.
+Курс дополнительного образования Томского Государственного Университета. Практические работы по курсу
