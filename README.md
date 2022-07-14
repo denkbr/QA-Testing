@@ -1,4 +1,3 @@
-# 
 Eng
 A list of my works created without NDA is presented for review.
 
