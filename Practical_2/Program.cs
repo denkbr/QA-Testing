@@ -11,7 +11,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 // Проверка введеного числа и получение второй цифры трехзничного числа.
 if ((num >= 100) && (num < 1000))
 {
-    Console.Write ($"num/10%10");
+    Console.WriteLine ($"{num/10%10}");
 }
 else
 {
