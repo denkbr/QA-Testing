@@ -1,0 +1,15 @@
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\bin\Debug\net6.0\Practical_3.exe
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\bin\Debug\net6.0\Practical_3.deps.json
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\bin\Debug\net6.0\Practical_3.runtimeconfig.json
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\bin\Debug\net6.0\Practical_3.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\bin\Debug\net6.0\Practical_3.pdb
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.csproj.AssemblyReference.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.AssemblyInfoInputs.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.AssemblyInfo.cs
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.csproj.CoreCompileInputs.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\refint\Practical_3.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.pdb
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\Practical_3.genruntimeconfig.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\Practical_3\obj\Debug\net6.0\ref\Practical_3.dll
