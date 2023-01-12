@@ -4,11 +4,7 @@
 
 // 2, 4 -> 16
 
-// Ввод чисел А и В
-Console.Write("Введите число A: ");
-int numberA = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите число B: ");
-int numberB = Convert.ToInt32(Console.ReadLine());
+
 // Определение значения числа А в степени В
 int Exponentiation(int numberA, int numberB)
 {
@@ -20,6 +16,12 @@ int Exponentiation(int numberA, int numberB)
   
     return result;
 }
+
+// Ввод чисел А и В
+Console.Write("Введите число A: ");
+int numberA = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите число B: ");
+int numberB = Convert.ToInt32(Console.ReadLine());
 // Вывод результата вычислений
   int exponentiation = Exponentiation(numberA, numberB);
   Console.WriteLine("Ответ: " + exponentiation);
