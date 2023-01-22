@@ -1,0 +1,15 @@
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\bin\Debug\net6.0\UTOGOVOE_ZADANUE.exe
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\bin\Debug\net6.0\UTOGOVOE_ZADANUE.deps.json
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\bin\Debug\net6.0\UTOGOVOE_ZADANUE.runtimeconfig.json
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\bin\Debug\net6.0\UTOGOVOE_ZADANUE.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\bin\Debug\net6.0\UTOGOVOE_ZADANUE.pdb
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.csproj.AssemblyReference.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.AssemblyInfoInputs.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.AssemblyInfo.cs
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.csproj.CoreCompileInputs.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\refint\UTOGOVOE_ZADANUE.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.pdb
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\UTOGOVOE_ZADANUE.genruntimeconfig.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\denkbr_C#\UTOGOVOE_ZADANUE\obj\Debug\net6.0\ref\UTOGOVOE_ZADANUE.dll
