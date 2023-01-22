@@ -8,26 +8,35 @@
 
 // 8 7,8 -7,1 9
 
-int n = InputInt("Введите положительное число ");
-int m = 1;
-while (n < 1)
-{
-    Console.WriteLine("Ввели не положительное число! Введите положительное число.");
-    break;
-}
-Console.WriteLine(NaturalNumber(n, m));
+Console.WriteLine("введите количество строк");
+int linesVol = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("введите количество столбцов");
+int columnsVol = Convert.ToInt32(Console.ReadLine());
+double[,] numbers = new double[linesVol, columnsVol];
+FillArrayRandomNumbers(numbers);
+PrintArray(numbers);
 
-int NaturalNumber(int n, int m)
+void FillArrayRandomNumbers(double[,] array)
 {
-    if (n == m)
-        return n;
-    else
-        Console.Write($"{NaturalNumber(n, m + 1)}, ");
-    return m;
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            array[i, j] = Convert.ToDouble(new Random().Next(-100, 100)) / 10;
+        }
+    }
 }
 
-int InputInt(string output)
+void PrintArray(double[,] array)
 {
-    Console.Write(output);
-    return int.Parse(Console.ReadLine());
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        Console.Write("[ ");
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write(array[i, j] + " ");
+        }
+        Console.Write("]");
+        Console.WriteLine("");
+    }
 }
