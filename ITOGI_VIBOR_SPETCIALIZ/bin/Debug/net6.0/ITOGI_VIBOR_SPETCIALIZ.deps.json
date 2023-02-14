@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITOGI_VIBOR_SPETCIALIZ/1.0.0": {
+        "runtime": {
+          "ITOGI_VIBOR_SPETCIALIZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITOGI_VIBOR_SPETCIALIZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

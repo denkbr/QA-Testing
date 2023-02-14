@@ -1,0 +1,15 @@
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\bin\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.exe
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\bin\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.deps.json
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\bin\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.runtimeconfig.json
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\bin\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\bin\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.pdb
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.csproj.AssemblyReference.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.AssemblyInfoInputs.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.AssemblyInfo.cs
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.csproj.CoreCompileInputs.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\refint\ITOGI_VIBOR_SPETCIALIZ.dll
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.pdb
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ITOGI_VIBOR_SPETCIALIZ.genruntimeconfig.cache
+C:\Users\DenKB\QA-Testing\GeekBrains\ITOGI_VIBOR_SPETCIALIZ\obj\Debug\net6.0\ref\ITOGI_VIBOR_SPETCIALIZ.dll
