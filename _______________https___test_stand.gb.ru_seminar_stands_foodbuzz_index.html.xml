@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite>
+	<id>S1</id>
+	<name>Проверка раздела &quot;Вкусное Меню На Сегодня&quot; сайта https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html</name>
+	<description>Проверка раздела &quot;Вкусное Меню На Сегодня&quot; сайта https://test-stand.gb.ru/seminar_stands/foodbuzz/index.html</description>
+	<sections>
+		<section>
+		<name>1. Проверка заголовка &quot;Меню&quot; на соответствие требованиям/макету.</name>
+		<description>Проводится проверка заголовка &quot;Меню&quot; на соответствие требованиям/макету.</description>
+									</section>
+			<section>
+		<name>2. Проверка подзаголовка &quot;Наше Вкусное Меню На Сегодня&quot; на соответствие требованиям/макету.</name>
+		<description>Проверка подзаголовка &quot;Наше Вкусное Меню На Сегодня&quot; на соответствие требованиям/макету.</description>
+									</section>
+			<section>
+		<name>3. Проверка табов в разделе &quot;Вкусное меню на сегодня&quot; на соответствие требованиям по шрифту, цвету и расположению</name>
+		<description>Проверка табов в разделе &quot;Вкусное меню на сегодня&quot; на соответствие требованиям по шрифту, цвету и расположению</description>
+									</section>
+			<section>
+		<name>4. Проверка соответствия наименования табов макету.</name>
+		<description>Проверка соответствия наименования табов макету.</description>
+									</section>
+			<section>
+		<name>5. Проверка каждого таба на правильность сортировки категорий.</name>
+		<description>Проверка каждого таба на правильность сортировки категорий.</description>
+									</section>
+			<section>
+		<name>6. Проверка карточек с блюдами на наличие и соответствие макету</name>
+		<description>Проверка карточек с блюдами на наличие и соответствие макету</description>
+									</section>
+			<section>
+		<name>7. Проверка заполнения карточек с блюдами и их верстки</name>
+		<description>Проверка заполнения карточек с блюдами и их верстки</description>
+									</section>
+			<section>
+		<name>8. Проверка анимации при переходах по табам раздела.</name>
+		<description>Проверка анимации при переходах по табам раздела.</description>
+									</section>
+	</sections>
+</suite>
